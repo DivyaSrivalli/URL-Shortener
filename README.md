@@ -60,18 +60,6 @@ Example workflow:
 
 
 
-## 🚀 Future Improvements
-
-* User authentication (JWT)
-* Custom short URLs
-* Click analytics
-* QR code generation
-* URL expiration
-* Rate limiting
-* Docker support
-* Deployment with Render
-
-
 ## 👩‍💻 Author
 
 **Divya Immidisetty**
